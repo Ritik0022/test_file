@@ -1,5 +1,6 @@
 # test_file
+<<<<<<< HEAD
 		jsjksahadks				g
+=======
+		jsjksahadksjdakjbadsjadsaksjasjl
 
-# varun15 
-kdjaksjafskasfkafssaknfsa
